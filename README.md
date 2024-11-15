@@ -1,4 +1,4 @@
-# QP-Gen  
+# Automatic Question Paper Generator 
 
 Welcome to **QP-Gen** – an innovative AI-powered application designed to streamline the question paper creation process, improving quality and adherence to academic standards.  
 
